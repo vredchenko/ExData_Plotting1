@@ -1,3 +1,7 @@
+## Note to reviewers
+
+R code assumes the archive containing data has been extracted to ./ and setwd("./")
+
 ## Introduction
 
 This assignment uses data from
